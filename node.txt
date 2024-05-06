@@ -1,0 +1,15 @@
+- command
+help
+menu
+info
+pingtest
+newssearch
+
+- admin
+@xxx:xxx.com
+
+- path
+src
+lib
+usr
+mod
